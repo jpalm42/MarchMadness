@@ -18,12 +18,14 @@ def parseBracketFromURL(url):
 # Use BeautiFulSoup's find_parent function to pull the soup for entire region
 # Inputs: bracket_soup (soup represeting entire bracket)
 # Output: all_regions_soup (soup representing the 4 regions)
-def parseRegionsFromBracket(bracket_soup):
-    all_regions = bracket_soup.find_all("div", {"class": "region"})
-    return(all_regions)
+def parseBracketRegions(bracket_soup):
+    regions = bracket_soup.find_all("div", {"class": "region"})
+    final_four = bracket_soup.find_all("div", {"id": "finalfour"})
+    bracket_regions = regions.extend(final_four)
+    return(bracket_regions)
 
 # Function to parse out region name from soup of individual region
-# region name can be found within <div> tags as:
+# region_ name can be found within <div> tags as:
 #   <div class="regtitle">WEST</div>
 # Inputs: soup of individual region
 # Outputs: region_name (string)
@@ -32,7 +34,7 @@ def parseRegionName(region_soup):
     return(region_name)
 
 # Function to parse out block of soup that contains all of the games for that region
-# region game information can be found within <dl> tags
+# region_ game information can be found within <dl> tags
 # Inputs: soup of individual region (soup)
 # Outputs: soup of all games in region (soup)
 def parseGamesFromRegion(region_soup):
@@ -91,13 +93,16 @@ def parseDateTimeFromGame(game_soup):
     else: date_time = ["n/a", "n/a"]
     return(date_time)
 
+def parseScoreFromGame(game_soup):
+    score
+
 # Function to compile a list of games with all of their metadata
 # To be used to assemble a pandas dataframe
 # Inputs: url (string of url where bracket is located )
 # Outputs data (list where each element is a game represented by its own list of metadata)
 def compileGameData(url):
     data = []
-    all_regions_soup = parseRegionsFromBracket(parseBracketFromURL(url))
+    all_regions_soup = parseBracketRegions(parseBracketFromURL(url))
     for region_soup in all_regions_soup:
         region_name = parseRegionName(region_soup)
         games_soup = parseGamesFromRegion(region_soup)
