@@ -69,8 +69,8 @@ def addCustomColumns(df):
 
 def uploadToGoogle(df):
     gc = gspread.oauth(
-        credentials_filename='google_api/credentials.json',
-        authorized_user_filename='google_api/authorized_user.json')
+        credentials_filename=r'C:\Users\JonPalmer\AppData\Roaming\gspread\google_api\credentials.json',
+        authorized_user_filename=r'C:\Users\JonPalmer\AppData\Roaming\gspread\google_api\authorized_user.json')
 
     spreadsheet_key = '1iSB014G0fgfgltuJM7kJwrdv8HvE9z2UOnHgKhgM3FU'
     google_spreadsheet = gc.open_by_key(spreadsheet_key)
