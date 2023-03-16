@@ -1,0 +1,3935 @@
+<div class="VZTD rEPu wIPH lZur KHvt EfYc rcQw CECG IWdm iUDL" data-testid="FourRegionBracket">
+ <div class="mLAS VZTD wIPH nkdH lZur RFzm" data-testid="fourRegionChunk">
+  <div class="oimq VZTD rEPu gKEB" data-testid="renderRegion">
+   <div class="mLAS MMll VZTD vvOI gDtF mSCG NZix sdbG LFQx MjMM qEsL">
+    WEST
+   </div>
+   <div class="VZTD lZur">
+    <div class="VZTD rEPu zkpV gKEB VWuy" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408586" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Gonzaga
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             93
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2247.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             16
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Georgia St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             72
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408588" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/68.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Boise St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             53
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/235.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Memphis
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             64
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408574" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/41.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             UConn
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             63
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/166.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             12
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             New Mexico St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             70
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408575" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/8.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Arkansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             75
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/261.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             13
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Vermont
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             71
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408605" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/333.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             6
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Alabama
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             64
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/87.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Notre Dame
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             78
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408602" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2641.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Texas Tech
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             97
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/147.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             14
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Montana St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             62
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408593" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Michigan St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             74
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Davidson
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             73
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408592" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Duke
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             78
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2239.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Fullerton
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             61
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV gKEB VWuy" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK oIBw TxAU VUrx uJwl ByDJ QhaM zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408613" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Gonzaga
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             82
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/235.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Memphis
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             78
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK oIBw TxAU VUrx uJwl vhBg dfTN zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408606" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/166.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             12
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             New Mexico St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             48
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/8.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Arkansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             53
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK oIBw TxAU VUrx uJwl ByDJ QhaM zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408620" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/87.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Notre Dame
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             53
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2641.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Texas Tech
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             59
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK oIBw TxAU VUrx uJwl vhBg dfTN zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408614" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Michigan St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             76
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Duke
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             85
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV HkWF VWuy TmzD kGyA NqeU xsAV AlZT SFBh JKdt" data-testid="regionRound">
+     <div class="NzyJ NqeU pdOI sypA nscA fSLr">
+      WEST
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK oIBw TxAU ySJJ uJwl ByDJ QhaM zFUu HKQV lSvX">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408625" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Gonzaga
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             68
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/8.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Arkansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             74
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK oIBw TxAU ySJJ uJwl vhBg dfTN zFUu HKQV lSvX">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408624" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2641.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Texas Tech
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             73
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Duke
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             78
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV HkWF VWuy TmzD kGyA NqeU xsAV AlZT SFBh uDML SIDD qzWn" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK vwsC lSvX yfNM CMTB oIBw TxAU VUrx uJwl ByDJ QhaM zFUu PBIr dDwc paob apKM aeFH dbYn YABd UfKz iBNc hdFr rwNd APzY EcdF EmnI rfEL itIm WPEG Qskt InSE">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408631" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/8.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Arkansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             69
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Duke
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             78
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="KXlJ VZTD rEPu EOvv" data-testid="renderRegion">
+   <div class="mLAS MMll VZTD vvOI gDtF mSCG NZix sdbG LFQx MjMM qEsL">
+    SOUTH
+   </div>
+   <div class="VZTD lZur">
+    <div class="VZTD rEPu zkpV HkWF ATHc kGyA anXf TmzD NqeU xsAV DsfJ SFBh uDML xlqd qzWn fKae euPC" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU vwsC lSvX yfNM CMTB oIBw TxAU VUrx uJwl ByDJ QhaM zFUu Nuie ejxD paob apKM aeFH QFrs YABd UfKz iBNc FtXB ooMl APzY EcdF EmnI xCtI itIm WPEG NOix InSE QqWr">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408630" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Houston
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             44
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Villanova
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             50
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV HkWF ATHc kGyA anXf TmzD NqeU xsAV DsfJ SFBh xlqd fKae mzJY" data-testid="regionRound">
+     <div class="NzyJ NqeU pdOI sypA nscA fSLr">
+      SOUTH
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU oIBw TxAU ySJJ uJwl ByDJ QhaM zFUu ZNKC lSvX HIOh">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408622" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/12.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Arizona
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             60
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Houston
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             72
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU oIBw TxAU ySJJ uJwl vhBg dfTN zFUu ZNKC lSvX HIOh">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408623" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Michigan
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             55
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Villanova
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             63
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV zDzY ATHc EOvv anXf" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU oIBw TxAU VUrx uJwl ByDJ QhaM AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408621" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final/OT
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/12.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Arizona
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             85
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2628.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             TCU
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             80
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU oIBw TxAU VUrx uJwl vhBg dfTN AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408618" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Houston
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             68
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Illinois
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             53
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU oIBw TxAU VUrx uJwl ByDJ QhaM AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408608" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Michigan
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             76
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2633.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Tennessee
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             68
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU oIBw TxAU VUrx uJwl vhBg dfTN AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408619" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Ohio State
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             61
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Villanova
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             71
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV zDzY ATHc EOvv anXf" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408604" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/12.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Arizona
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             87
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2750.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             16
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Wright St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             70
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408603" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2550.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Seton Hall
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             42
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2628.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             TCU
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             69
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408601" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/248.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Houston
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             82
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/5.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             12
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             UAB
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             68
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408600" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/356.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Illinois
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             54
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/236.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             13
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Chattanooga
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             53
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408581" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/36.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             6
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Colorado St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             63
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Michigan
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             75
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408580" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2633.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Tennessee
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             88
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2344.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             14
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Longwood
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             56
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408599" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Ohio State
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             54
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2350.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Loyola Chicago
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             41
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408598" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Villanova
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             80
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/48.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Delaware
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             60
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="lZur hfci zEFw">
+  <div class="mLAS VZTD wIPH PSma NqeU dDIO iMIY lqtk glxI HfYh vUYN" data-testid="desktopfinals">
+   <div class="lZur">
+    <div class="mLAS VZTD wIPH">
+     <div class="VZTD rEPu YqqW lZur" data-testid="finalsmatchup">
+      <div class="mLAS MAJP VZTD rEPu PSma NqeU ZEuk zXGb zeSW abvu yKTo UgIn kLdg yeut ckrK QWHj IURx UoVV oOOV dSKv OTVe">
+       <div class="EtBY XPqY faFJ WfkA ZJcx wuua VIBJ xTel dcJo ZroS">
+        Final Four
+       </div>
+       <div class="UxnE amMf EnLW czIU TJrY JIeT WUTm xTel qEsL">
+        Apr 2
+       </div>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy QxNF zBTh ZRif WYgm ovqG LWFY cNPY wghw uMTB HTks vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408635" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Duke
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             77
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             North Carolina
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             81
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy QxNF zBTh ZRif aIkD ovqG LWFY cNPY wghw uMTB HTks vhZx Njwq VeeK CigN awBA TCfT CXlY BXVg BracketMatchup--championship">
+      <a class="ibBn YCZB" data-testid="prism-linkbase" href="/mens-college-basketball/game/_/gameId/401408636" tabindex="0">
+       <div class="vhvt XfAw UncJ ujE ggTs KVjt">
+        <span class="hsDd YOOe yKlj hfDk ubOd FuEs Mxk AxMp">
+         Championship
+        </span>
+        <div class="mLAS VZTD nkdH fsxH FUpQ lqtk jqNC HfYh vQPT">
+         <div class="mLAS VZTD LmXy Fijz kSGl TmzD BKbW">
+          <img alt="UNC" class="awXx mhCC mdCe" data-testid="prism-image" draggable="false" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&amp;w=75&amp;h=75&amp;scale=crop&amp;cquality=40"/>
+          <div class="gNIL lZur VZTD UeCO jIRH xzMW">
+           <div class="lZur">
+            <span class="VGOq MqTx nPLa">
+             69
+            </span>
+           </div>
+           <span class="VZTD iygL ABCG hfDk toGj RrTV jIRH eQDA nPLa xTel lCvN">
+            <span class="chVB LsyR CFZb ymbJ">
+             8
+            </span>
+            North Carolina
+           </span>
+          </div>
+         </div>
+         <div class="VZTD rEPu mLAS kSGl zeSW FVfk hYUd">
+          <span class="ABCG iygL AOgX Ykpi hfDk FVfk">
+           Final
+          </span>
+         </div>
+         <div class="mLAS VZTD LmXy Fijz kSGl TmzD BKbW UlLJ">
+          <div class="gNIL lZur VZTD UeCO jIRH xzMW">
+           <div class="lZur nMMe abbJ Ptjq DdnS afvU DgPp NrrZ">
+            <span class="VGOq MqTx Ykpi">
+             72
+            </span>
+           </div>
+           <span class="VZTD iygL ABCG hfDk toGj RrTV jIRH eQDA Ykpi xTel lCvN">
+            <span class="chVB LsyR CFZb ymbJ">
+             1
+            </span>
+            Kansas
+           </span>
+          </div>
+          <img alt="KU" class="awXx mhCC mdCe" data-testid="prism-image" draggable="false" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&amp;w=75&amp;h=75&amp;scale=crop&amp;cquality=40"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="VZTD rEPu zDzY lZur KHno" data-testid="finalsmatchup">
+      <div class="mLAS MAJP VZTD rEPu PSma NqeU ZEuk zXGb zeSW abvu yKTo UgIn kLdg yeut ckrK QWHj IURx UoVV oOOV dSKv OTVe">
+       <div class="EtBY XPqY faFJ WfkA ZJcx wuua VIBJ xTel dcJo ZroS">
+        Final Four
+       </div>
+       <div class="UxnE amMf EnLW czIU TJrY JIeT WUTm xTel qEsL">
+        Apr 2
+       </div>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy QxNF zBTh ZRif WYgm ofMo LWFY cNPY wghw uMTB HTks vhZx Njwq VeeK HkWF KrOW">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408634" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/222.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Villanova
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             65
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Kansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             81
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="lZur">
+     <div class="NqeU PvNB PSma KMRv">
+      <div class="lZur PqvC Fosi VZTD jIRH mLAS">
+       <svg aria-labelledby="ChampionshipBanner_Title" fill="none" preserveaspectratio="xMidYMid meet" viewbox="0 0 182 262" width="100%" xmlns="http://www.w3.org/2000/svg">
+        <title id="ChampionshipBanner__Title">
+         Championship Banner
+        </title>
+        <rect fill="#848687" height="16.3951" width="2.5" x="14">
+        </rect>
+        <rect fill="#848687" height="16.3951" width="2.5" x="89.75">
+        </rect>
+        <rect fill="#848687" height="16.3951" width="2.5" x="165.5">
+        </rect>
+        <g filter="url(#ChampionshipBanner__Filter)">
+         <path d="M12 24.5C12 23.6716 12.6716 23 13.5 23H168.5C169.328 23 170 23.6716 170 24.5V222.874L91 247L12 222.874V24.5Z" fill="#0051ba">
+         </path>
+         <path d="M14 221.394V25H168V221.394L91 244.909L14 221.394Z" stroke="#000000" stroke-width="4">
+         </path>
+        </g>
+        <rect fill="#0051ba" height="16" rx="6" stroke="#000000" stroke-width="3" width="164" x="9" y="16">
+        </rect>
+        <text class="ZfQk LwDf MaML EONT FuEs VGOq" fill="#ffffff" text-anchor="middle" x="91" y="75">
+         2022
+        </text>
+        <text class="ZfQk ecpY Tosh FuEs Mxk VGOq" fill="#ffffff" text-anchor="middle" x="91" y="188">
+         National
+        </text>
+        <text class="ZfQk ecpY Tosh FuEs Mxk VGOq" fill="#ffffff" text-anchor="middle" x="91" y="211">
+         Champions
+        </text>
+        <defs>
+         <filter color-interpolation-filters="sRGB" filterunits="userSpaceOnUse" height="248" id="ChampionshipBanner__Filter" width="182" x="0" y="14">
+          <feflood flood-opacity="0" result="BackgroundImageFix">
+          </feflood>
+          <fecolormatrix in="SourceAlpha" result="hardAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0">
+          </fecolormatrix>
+          <feoffset dy="3">
+          </feoffset>
+          <fegaussianblur stddeviation="6">
+          </fegaussianblur>
+          <fecolormatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.0705882 0 0 0 0 0.0745098 0 0 0 0.24 0">
+          </fecolormatrix>
+          <feblend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow_74_154237">
+          </feblend>
+          <feblend in="SourceGraphic" in2="effect1_dropShadow_74_154237" mode="normal" result="shape">
+          </feblend>
+         </filter>
+        </defs>
+       </svg>
+       <div class="NqeU bmjs VZTD jIRH mLAS yJAT qBPO">
+        <img class="osmq MEQS hsDd" data-testid="prism-image" draggable="false" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500-dark/2305.png&amp;w=150&amp;h=150&amp;scale=crop&amp;cquality=40"/>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mLAS VZTD wIPH nkdH lZur" data-testid="fourRegionChunk">
+  <div class="oimq VZTD rEPu gKEB" data-testid="renderRegion">
+   <div class="mLAS MMll VZTD vvOI gDtF mSCG NZix sdbG LFQx MjMM qEsL">
+    EAST
+   </div>
+   <div class="VZTD lZur">
+    <div class="VZTD rEPu zkpV gKEB VWuy" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408585" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/239.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Baylor
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             85
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2450.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             16
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Norfolk St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             49
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408583" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             North Carolina
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             95
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/269.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Marquette
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             63
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408589" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2608.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Saint Mary's
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             82
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/84.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             12
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Indiana
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             53
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408587" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/26.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             UCLA
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             57
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2006.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             13
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Akron
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             53
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408596" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/251.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             6
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Texas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             81
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/259.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Virginia Tech
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             73
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408595" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Purdue
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             78
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/43.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             14
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Yale
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             56
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408579" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final/OT
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/93.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Murray St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             92
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2539.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             San Francisco
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             87
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408578" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final/OT
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/96.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Kentucky
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             79
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2612.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Saint Peter's
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             85
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV gKEB VWuy" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK oIBw TxAU VUrx uJwl ByDJ QhaM zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408610" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final/OT
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/239.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Baylor
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             86
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             North Carolina
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             93
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK oIBw TxAU VUrx uJwl vhBg dfTN zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408612" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2608.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Saint Mary's
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             56
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/26.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             UCLA
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             72
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK oIBw TxAU VUrx uJwl ByDJ QhaM zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408616" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/251.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             6
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Texas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             71
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Purdue
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             81
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK oIBw TxAU VUrx uJwl vhBg dfTN zFUu hUaw">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408609" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/93.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Murray St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             60
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2612.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Saint Peter's
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             70
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV HkWF VWuy TmzD kGyA NqeU xsAV AlZT SFBh JKdt" data-testid="regionRound">
+     <div class="NzyJ NqeU pdOI sypA nscA fSLr">
+      EAST
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy seNY QxNF CEXN mpYI ZRif WYgm YNLv ovqG LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ WvUW afvU HxeY zCTi VeeK oIBw TxAU ySJJ uJwl ByDJ QhaM zFUu HKQV lSvX">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408629" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             North Carolina
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             73
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/26.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             UCLA
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             66
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK oIBw TxAU ySJJ uJwl vhBg dfTN zFUu HKQV lSvX">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408628" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Purdue
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             64
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2612.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Saint Peter's
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             67
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV HkWF VWuy TmzD kGyA NqeU xsAV AlZT SFBh uDML SIDD qzWn" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy BjHH QxNF ThWE kkEK mpYI ZRif WYgm YNLv ovqG LWFY ksQk HTks MXSG nGqq jJaV vhZx Njwq VeeK vwsC lSvX yfNM zqhT oIBw TxAU VUrx uJwl vhBg dfTN zFUu oWfm lstj dqzE apKM aeFH dbYn YABd azfb iBNc zaCS VBFo APzY EcdF EmnI rfEL itIm zGLZ RUwz InSE">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408633" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             North Carolina
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             69
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2612.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Saint Peter's
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             49
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="KXlJ VZTD rEPu EOvv" data-testid="renderRegion">
+   <div class="mLAS MMll VZTD vvOI gDtF mSCG NZix sdbG LFQx MjMM qEsL">
+    MIDWEST
+   </div>
+   <div class="VZTD lZur">
+    <div class="VZTD rEPu zkpV HkWF ATHc kGyA anXf TmzD NqeU xsAV DsfJ SFBh uDML xlqd qzWn fKae euPC" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU vwsC lSvX yfNM zqhT oIBw TxAU VUrx uJwl vhBg dfTN zFUu syZH fcpO dqzE apKM aeFH QFrs YABd azfb iBNc mSpa wHkE APzY EcdF EmnI xCtI itIm zGLZ NloK InSE QqWr">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408632" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Kansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             76
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2390.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Miami
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             50
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV HkWF ATHc kGyA anXf TmzD NqeU xsAV DsfJ SFBh xlqd fKae mzJY" data-testid="regionRound">
+     <div class="NzyJ NqeU pdOI sypA nscA fSLr">
+      MIDWEST
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU oIBw TxAU ySJJ uJwl ByDJ QhaM zFUu ZNKC lSvX HIOh">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408627" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Kansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             66
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2507.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Providence
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             61
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU oIBw TxAU ySJJ uJwl vhBg dfTN zFUu ZNKC lSvX HIOh">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408626" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Iowa State
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             56
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2390.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Miami
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             70
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV zDzY ATHc EOvv anXf" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU oIBw TxAU VUrx uJwl ByDJ QhaM AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408611" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Kansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             79
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/156.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Creighton
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             72
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU oIBw TxAU VUrx uJwl vhBg dfTN AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408607" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/257.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             12
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Richmond
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             51
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2507.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Providence
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             79
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU oIBw TxAU VUrx uJwl ByDJ QhaM AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408617" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Iowa State
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             54
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Wisconsin
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             49
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU oIBw TxAU VUrx uJwl vhBg dfTN AJMM ZNKC fXRJ bwDN">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408615" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2390.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Miami
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             79
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Auburn
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             61
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="VZTD rEPu zkpV zDzY ATHc EOvv anXf" data-testid="regionRound">
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408582" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2305.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             1
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Kansas
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             83
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2640.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             16
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Texas Southern
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             56
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408584" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final/OT
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/21.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             8
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             San Diego St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             69
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/156.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             9
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Creighton
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             72
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408577" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2294.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             5
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Iowa
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             63
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/257.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             12
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Richmond
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             67
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408576" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2507.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             4
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Providence
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             66
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2571.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             13
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             S Dakota St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             57
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408597" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/99.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             6
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             LSU
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             54
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             11
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Iowa State
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             59
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408594" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             3
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Wisconsin
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             67
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2142.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             14
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             Colgate
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             60
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="VZTD rEPu zkpV">
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH gwzm lZur QqSi Igpz xSXy dyBF QxNF hIUB mpYI ZRif WYgm YNLv ofMo LWFY aJLg ksQk HTks vhZx xSOC Njwq wSio Recx nMMe zuRo UdzQ DMLd afvU HxeY zCTi VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408590" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/30.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             7
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             USC
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             66
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2390.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             10
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Miami
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             68
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="BracketMatchup VZTD rEPu zkpV jIRH HfYh lZur QqSi Igpz xSXy xAvx QxNF gUNL kkEK mpYI ZRif WYgm YNLv ofMo LWFY ksQk HTks MXSG DMLd jJaV vhZx Njwq VeeK KrOW mPQU">
+       <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408591" tabindex="0">
+        <div class="BracketCell__Details flex justify-between items-center">
+         <div class="BracketCell__Status h9 clr-gray-100">
+          Final
+         </div>
+        </div>
+        <div class="BracketCell__Competitors">
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             2
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-100">
+             Auburn
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+            <div>
+             80
+            </div>
+            <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+             <use xlink:href="#icon__arrow__winner_left">
+             </use>
+            </svg>
+           </div>
+          </div>
+         </div>
+         <div class="BracketCell__CompetitorItem mb2">
+          <div class="flex items-center justify-between">
+           <div class="BracketCell__Competitor flex items-center">
+            <div class="BracketCell__Logo mr1 flex-shrink-0">
+             <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/55.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+            </div>
+            <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+             15
+            </div>
+            <div class="BracketCell__Name truncate clr-gray-60">
+             J'Ville St
+            </div>
+           </div>
+           <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+            <div>
+             61
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="lZur qBPO">
+  <div class="VZTD rEPu jIRH FuEs WeBF">
+   <div class="EtBY VIJf mTdq IWAV AdcH VdBK">
+    First Four
+   </div>
+   <div class="UxnE VIJf anLJ thzG qcnd nYcm">
+    Mar 15 - 16
+   </div>
+  </div>
+  <div class="VZTD UeCO jIRH kkGS">
+   <div class="Xboq">
+    <div class="BracketMatchup">
+     <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408572" tabindex="0">
+      <div class="BracketCell__Details flex justify-between items-center">
+       <div class="BracketCell__Status h9 clr-gray-100">
+        Final
+       </div>
+      </div>
+      <div class="BracketCell__Competitors">
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2640.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           16
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-100">
+           Texas Southern
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+          <div>
+           76
+          </div>
+          <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+           <use xlink:href="#icon__arrow__winner_left">
+           </use>
+          </svg>
+         </div>
+        </div>
+       </div>
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/357.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           16
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-60">
+           Texas A&amp;M-CC
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+          <div>
+           67
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="BracketMatchup__Label">
+      MIDWEST
+     </div>
+    </div>
+   </div>
+   <div class="Xboq">
+    <div class="BracketMatchup">
+     <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408571" tabindex="0">
+      <div class="BracketCell__Details flex justify-between items-center">
+       <div class="BracketCell__Status h9 clr-gray-100">
+        Final
+       </div>
+      </div>
+      <div class="BracketCell__Competitors">
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2751.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           12
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-60">
+           Wyoming
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+          <div>
+           58
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/84.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           12
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-100">
+           Indiana
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+          <div>
+           66
+          </div>
+          <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+           <use xlink:href="#icon__arrow__winner_left">
+           </use>
+          </svg>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="BracketMatchup__Label">
+      EAST
+     </div>
+    </div>
+   </div>
+   <div class="Xboq">
+    <div class="BracketMatchup">
+     <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408573" tabindex="0">
+      <div class="BracketCell__Details flex justify-between items-center">
+       <div class="BracketCell__Status h9 clr-gray-100">
+        Final
+       </div>
+      </div>
+      <div class="BracketCell__Competitors">
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2750.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           16
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-100">
+           Wright St
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+          <div>
+           93
+          </div>
+          <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+           <use xlink:href="#icon__arrow__winner_left">
+           </use>
+          </svg>
+         </div>
+        </div>
+       </div>
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2803.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           16
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-60">
+           Bryant
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+          <div>
+           82
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="BracketMatchup__Label">
+      SOUTH
+     </div>
+    </div>
+   </div>
+   <div class="Xboq">
+    <div class="BracketMatchup">
+     <a class="AnchorLink BracketCell bg-clr-white db br-4 BracketCell--hoverable" href="/mens-college-basketball/game/_/gameId/401408570" tabindex="0">
+      <div class="BracketCell__Details flex justify-between items-center">
+       <div class="BracketCell__Status h9 clr-gray-100">
+        Final/2OT
+       </div>
+      </div>
+      <div class="BracketCell__Competitors">
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           11
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-60">
+           Rutgers
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-60 h7 fw-bold">
+          <div>
+           87
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="BracketCell__CompetitorItem mb2">
+        <div class="flex items-center justify-between">
+         <div class="BracketCell__Competitor flex items-center">
+          <div class="BracketCell__Logo mr1 flex-shrink-0">
+           <img alt="" class="Image Logo Logo__sm" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/87.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=40&amp;h=40"/>
+          </div>
+          <div class="BracketCell__Rank clr-gray-60 tar n10 flex-shrink-0">
+           11
+          </div>
+          <div class="BracketCell__Name truncate clr-gray-100">
+           Notre Dame
+          </div>
+         </div>
+         <div class="BracketCell__Score relative mono-num flex-shrink-0 clr-gray-100 h7 fw-bold">
+          <div>
+           89
+          </div>
+          <svg aria-hidden="true" class="BracketCell__WinnerIcon icon__svg" viewbox="0 0 24 24">
+           <use xlink:href="#icon__arrow__winner_left">
+           </use>
+          </svg>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="BracketMatchup__Label">
+      WEST
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
