@@ -1,2 +1,2 @@
-# MM2021
+# MarchMadness
 March Madness Bracket/Web Scraping
